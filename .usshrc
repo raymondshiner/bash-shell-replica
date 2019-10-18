@@ -1,0 +1,4 @@
+HISTCOUNT=1000
+HISTFILECOUNT=2000
+
+alias dog="ls -l"
